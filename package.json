@@ -9,6 +9,7 @@
   },
   "author": "Artifex",
   "dependencies": {
+    "better-sqlite-pool": "^0.2.0",
     "express": "^4.16.4",
     "discord.js": "^11.4.2",
     "ms": "^2.1.1",
