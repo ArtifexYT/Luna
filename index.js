@@ -35,3 +35,7 @@ client.settings = new Enmap({
     autoFetch: true,
     fetchAll: true
 });
+
+const init = async () => {
+    
+};
