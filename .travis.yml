@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "11"
+install: npm install
+jobs:
+  include:
+    - stage: start
+      script: npm start
+cache:
+  directories:
+    - node_modules
