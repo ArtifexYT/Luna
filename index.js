@@ -17,6 +17,7 @@ const client = new Discord.Client({
 
 client.config = require("./config.js");
 client.logger = require("./modules/Logger");
+client.errors = require("./modules/Errors");
 client.instance = require("./package.json");
 
 require("./modules/functions.js");
