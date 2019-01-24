@@ -1,6 +1,24 @@
 const Discord = require("discord.js");
 
 exports.run = async (client, message, args, level) => {
+    function checkBots(guild) {
+        let botCount = 0;
+        guild.members.forEach(member => {
+            if (member.user.bot) botCount++;
+        });
+
+        return botCount;
+    }
+
+    function checkMembers(guild) {
+        let memberCount = 0;
+        guild.members.forEach(member => {
+            if (!member.user.bot) memberCount++;
+        });
+
+        return memberCount;
+    }
+
     const guild = message.guild;
 
     function checkRegion(message, guild) {
