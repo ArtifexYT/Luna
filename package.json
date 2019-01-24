@@ -63,7 +63,8 @@
     "humanize-duration": "^3.17.0",
     "got": "^9.6.0",
     "ws": "^6.1.2",
-    "dotenv": "^6.2.0"
+    "dotenv": "^6.2.0",
+    "@sentry/node": "^4.5.3"
   },
   "engines": {
     "node": "10.15.0",
