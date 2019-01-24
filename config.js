@@ -16,7 +16,6 @@ module.exports = {
     },
 
     permLevels: [
-
         { level: 0,
           name: "User", 
           check: () => true
