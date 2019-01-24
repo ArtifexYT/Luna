@@ -7,7 +7,7 @@ const Enmap = require("enmap");
 
 const client = new Discord.Client({
     disableEveryone: true,
-    fetchAllMembers: false,
+    fetchAllMembers: true,
     sync: false,
     messageCacheMaxSize: 100,
     messageCacheLifetime: 240,
