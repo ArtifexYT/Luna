@@ -24,12 +24,6 @@ require("./modules/functions.js");
 client.commands = new Enmap();
 client.aliases = new Enmap();
 
-client.points = new Enmap({
-    name: "points",
-    autoFetch: true,
-    fetchAll: true
-});
-
 client.settings = new Enmap({
     name: "settings",
     autoFetch: true,
