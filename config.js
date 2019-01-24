@@ -1,6 +1,6 @@
 module.exports = {
     ownerID: "YourUserIDHere",
-    admins: [],
+    admins: ["536955005664624641", "537804407954210816", "537316883536281601", "536962817031536650"],
     support: [],
     token: "YourBotTokenHere",
 
