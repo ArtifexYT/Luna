@@ -31,6 +31,24 @@ B; A self-hosted instance with added featurres for **you only**
 
 I won't tolerate any public running instances. If I do find public running instances of Luna, I will take action.
 
+# Command Template
+If you wish to add your own commands, use this template.
+
+```
+exports.run = async (client, message, args, level) => {
+  // Command code goes here.
+};
+
+exports.conf = {
+  enabled: true,
+  guildOnly: false,
+  aliases: [],
+  permLevel: "User" // See configuration file for permission levels.
+};
+```
+
+Since the `help` command is static, you **must** write your own documentation. However, you **must not** claim the work as your own.
+
 # Contributors
 - ArtifexYT
 - FrostyDonuts
