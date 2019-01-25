@@ -34,7 +34,7 @@ I won't tolerate any public running instances. If I do find public running insta
 # Command Template
 If you wish to add your own commands, use this template.
 
-```
+```js
 exports.run = async (client, message, args, level) => {
   // Command code goes here.
 };
