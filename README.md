@@ -58,3 +58,5 @@ This project is placed under the [MIT license](https://en.wikipedia.org/wiki/MIT
 
 # Widgets
 ![Issue Status](https://img.shields.io/github/issues/ArtifexYT/Luna.svg?style=for-the-badge) ![Repository Size](https://img.shields.io/github/repo-size/ArtifexYT/Luna.svg?style=for-the-badge) ![Contributors Count](https://img.shields.io/github/contributors/ArtifexYT/Luna.svg?style=for-the-badge)
+
+![Database](https://img.shields.io/npm/dt/lunaxity.svg?style=for-the-badge) ![License](https://img.shields.io/github/license/ArtifexYT/Luna.svg?style=for-the-badge) 
