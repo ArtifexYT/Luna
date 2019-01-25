@@ -57,4 +57,4 @@ Since the `help` command is static, you **must** write your own documentation. H
 This project is placed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License) — Read more [here](https://github.com/ArtifexYT/Luna/blob/master/LICENSE).
 
 # Widgets
-![Issue Status](https://img.shields.io/github/issues/ArtifexYT/Luna.svg?style=for-the-badge) ![Repository Size](https://img.shields.io/github/repo-size/ArtifexYT/Luna.svg?style=for-the-badge) 
+![Issue Status](https://img.shields.io/github/issues/ArtifexYT/Luna.svg?style=for-the-badge) ![Repository Size](https://img.shields.io/github/repo-size/ArtifexYT/Luna.svg?style=for-the-badge) ![Contributors Count](https://img.shields.io/github/contributors/ArtifexYT/Luna.svg?style=for-the-badge)
