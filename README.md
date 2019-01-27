@@ -19,7 +19,7 @@ Once finished:
 - Edit the `config.js` file and fill in all the relevant details
 
 # Notable Features
-- Moderation. Easy to use moderation commands such as warn, kick, ban and way more.
+- Moderation. Easy to use moderation commands such as warn, kick, ban and much more.
 - Image manipulation. The power to put an image on a template to create fantastic jokes with friends.
 - Welcome messages. Welcome your new members to your server with **customizable** welcome messages.
 
